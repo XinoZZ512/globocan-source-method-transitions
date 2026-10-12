@@ -1,0 +1,3 @@
+Figure 2 and Figure 4 smoothers follow the pinned IJC reference grammar.
+lowess_f=0.6; lowess_iter=3; smoother lines are restricted to the group-specific 5th-95th percentile of the observed x range.
+All observed points and group medians are retained; smoothers are descriptive and are not used for inference.
