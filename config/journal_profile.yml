@@ -1,0 +1,30 @@
+profile: ijc_research_article_submission
+status: ijc_submission_build_in_progress
+last_reviewed: 2026-10-11
+target_journal: International Journal of Cancer
+article_type: Research Article
+corresponding_author: Hui Zhang
+publication_model: standard_hybrid_non_open_access_default
+q1_claim_allowed: false
+q1_evidence_required_for_submission: false
+manuscript_words: {body_maximum: 5000, counting_from: Introduction, counting_to: Discussion_or_Conclusions}
+abstract_words: {maximum: 250, structure: unstructured_single_paragraph}
+references: {maximum: 50, style: vancouver}
+main_display_items: 6
+main_figures: 4
+main_tables: 2
+supplementary_figures: 1
+main_display_items_policy: "Figures 1-4 and Tables 1-2; Table 3 and Figure S1 are supplementary"
+required_statements: [data_availability, ethics, funding, conflicts, credit, ai_disclosure, novelty_and_impact]
+required_comparator_dois: [10.1002/ijc.70773, 10.1002/ijc.70719]
+lowess_policy: "reference grammar, span 0.6, iter 3, line restricted to group 5th-95th x percentiles"
+repository_policy: "GitHub versioned source plus Zenodo immutable release DOI"
+repository_status: pending_author_account_release
+zenodo_doi: null
+github_url: null
+jcr_filter:
+  required: false
+  edition: JCR 2026
+  official_clarivate_row_obtained: false
+  note: "Do not state JCR quartile in manuscript, cover letter, or submission fields."
+
