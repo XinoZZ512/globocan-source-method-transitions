@@ -1,0 +1,6 @@
+claim_id,claim,reference_target,verification_status
+C01,"GLOBOCAN estimates combine registry, mortality, survival and model-based inputs",GLOBOCAN methods papers [2-13],Verified DOI/PMID and official method records
+C02,Cross-edition revisions cannot be interpreted as a simple temporal trend,Sabuncuoglu 2026; GLOBOCAN editions,Verified DOI/official metadata
+C03,Cancer registry and cause-of-death completeness vary across countries,WHO GHO indicators,Official API source
+C04,ASR comparisons near zero are denominator-sensitive,Robust percentage-change and statistical methods references [27-34],Verified DOI metadata and methods relevance
+C05,This study adds source-method provenance and external convergence checks,Present study; novelty matrix,Study-derived claim
