@@ -1,0 +1,21 @@
+"indicator","adjudicated_classification","n","category","share","label"
+"Incidence","ADMINISTRATIVE_OR_WORDING_ONLY",73,"Administrative / wording",0.394594594594595,"73
+39.5%"
+"Incidence","SUBSTANTIVE_SAME_DIRECTNESS",71,"Substantive, same directness",0.383783783783784,"71
+38.4%"
+"Incidence","TOWARD_MORE_DIRECT",19,"Toward more direct",0.102702702702703,"19
+10.3%"
+"Incidence","TOWARD_MORE_INDIRECT",21,"Toward more indirect",0.113513513513514,"21
+11.4%"
+"Incidence","UNCLASSIFIABLE",1,"Unclassifiable",0.00540540540540541,"1
+0.5%"
+"Mortality","ADMINISTRATIVE_OR_WORDING_ONLY",134,"Administrative / wording",0.724324324324324,"134
+72.4%"
+"Mortality","SUBSTANTIVE_SAME_DIRECTNESS",27,"Substantive, same directness",0.145945945945946,"27
+14.6%"
+"Mortality","TOWARD_MORE_DIRECT",8,"Toward more direct",0.0432432432432432,"8
+4.3%"
+"Mortality","TOWARD_MORE_INDIRECT",16,"Toward more indirect",0.0864864864864865,"16
+8.6%"
+"Mortality","UNCLASSIFIABLE",0,"Unclassifiable",0,"0
+0.0%"
